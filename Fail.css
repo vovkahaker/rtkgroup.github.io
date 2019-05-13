@@ -1,0 +1,67 @@
+﻿#menu ul li{
+ list-style-type:none;
+ margin-top:25px;
+ float:top;
+ position:relative;
+ color:#000000;
+}
+
+#menu {
+
+margin-top:0px;
+width:300px;
+border-style:solid;
+border-width:5px;
+border-color:black;
+height:304px;
+float: left;
+font-family:"Comic Sans MS";
+font-weight: normal; 
+}
+ 
+#logo {
+	  
+	width:165px;
+	height:135px;
+	float:left;
+ }
+ 
+ a {
+ color:#000000;
+ font-weight:bold;
+ text-transform:uppercase;
+ text-decoration:none;
+}
+
+#G {
+
+width: 1000px;
+background: url(trew.png);
+margin: 10px auto;
+height:1000px;
+}
+
+#G {background: url(trew.png);}
+
+
+
+body {
+background: url(fon4.jpg);
+background-repeat:no-repeat;
+background-color:white;
+
+}
+
+#tr{
+width:680px; 
+height: 304px;
+float: right;
+}
+
+h3{
+font-family:"Comic Sans MS";
+font-weight: normal; 
+}
+
+ 
+ 
