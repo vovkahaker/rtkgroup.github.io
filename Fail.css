@@ -84,8 +84,8 @@ font-weight: normal;
   }
 
   .progress {
-    animation: go-left-right 10s infinite alternate;
-    -webkit-animation: go-left-right 10s infinite alternate;
+    animation: go-left-right 15s infinite alternate;
+    -webkit-animation: go-left-right 15s infinite alternate;
     background:url(vagon.png) no-repeat;
 	 position: fixed; 
     left: 0; bottom: 0; 
